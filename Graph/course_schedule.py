@@ -61,3 +61,6 @@ class Solution:
                     q.append(cur)
 
         return not numCourses
+
+# Time complexity : O(n + m)
+# Space complexity : O(n + m)
