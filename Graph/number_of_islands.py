@@ -39,3 +39,6 @@ class Solution:
                 bfs(grid, i, j)
                 count += 1
         return count
+    
+# Time complexity : O(nm)
+# Space complexity : O(nm)
