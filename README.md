@@ -53,7 +53,7 @@
 [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[Python](./Graph/pacific_atlantic_water_flow.py)| <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
 [Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](./Graph/number_of_islands.py)| <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
 [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Python](./Graph/longest_consecutive_sequence.py)| <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
-[Alien Dictionary (LeetCode Premium)](https://leetcode.com/problems/alien-dictionary/)|[Python](./Graph/alline_dictionary.py)| <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
+[Alien Dictionary (LeetCode Premium)](https://leetcode.com/problems/alien-dictionary/)|[Python](./Graph/aline_dictionary.py)| <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
 [Graph Valid Tree (LeetCode Premium)](https://leetcode.com/problems/graph-valid-tree/)
 [Number of Connected Components in an Undirected Graph (LeetCode Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 
